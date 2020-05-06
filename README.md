@@ -9,3 +9,6 @@ Seyyed Ali Mojtabavi
 
 # License
 [MIT](./LICENSE)
+
+#Run
+python run.py
