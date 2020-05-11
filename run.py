@@ -30,7 +30,7 @@ while True:
     print("     0- Exit ")
     try:
         option = int(input("Enter a number: "))
-        if option < 0 or option > 4:
+        if option < 0 or option > 1:
             raise Exception
     except:
         continue
